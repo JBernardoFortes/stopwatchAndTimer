@@ -2,8 +2,8 @@
 Simple stopwatch and timer project using React + Typescript
 
 - React Router
-- Framer motion
-[Page](https://jbernardofortes.github.io/stopwatchAndTimer/)
+- Framer motion </br>
+[Page](https://jbernardofortes.github.io/stopwatchAndTimer/) </br>
 <i> It is partially responsive </i>
 
 
