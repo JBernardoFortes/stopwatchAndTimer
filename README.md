@@ -5,3 +5,8 @@ Simple stopwatch and timer project using React + Typescript
 - Framer motion
 
 <i> It is partially responsive </i>
+
+<a href='https://jbernardofortes.github.io/Timer'>
+<img src='https://imgur.com/2aXjSyL.jpg'></img>
+<img src='https://imgur.com/YimulCH.jpg'></img>
+</a>
