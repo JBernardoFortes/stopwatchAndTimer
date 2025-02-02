@@ -3,10 +3,10 @@ Simple stopwatch and timer project using React + Typescript
 
 - React Router
 - Framer motion
-
+[Page](https://jbernardofortes.github.io/stopwatchAndTimer/)
 <i> It is partially responsive </i>
 
-[Page](https://jbernardofortes.github.io/stopwatchAndTimer/)
+
 <a href='https://jbernardofortes.github.io/stopwatchAndTimer/'>
 <img src='https://imgur.com/2aXjSyL.jpg'></img>
 <img src='https://imgur.com/YimulCH.jpg'></img>
